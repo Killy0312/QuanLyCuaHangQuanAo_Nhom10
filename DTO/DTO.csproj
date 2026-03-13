@@ -44,6 +44,7 @@
     <Compile Include="ChiTietHoaDon.cs" />
     <Compile Include="Hoadon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SanPhamDTO.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
