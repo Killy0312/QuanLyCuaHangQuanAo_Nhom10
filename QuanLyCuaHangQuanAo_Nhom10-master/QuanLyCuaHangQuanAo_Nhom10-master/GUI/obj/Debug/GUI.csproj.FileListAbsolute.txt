@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\bin\Debug\DAL.dll
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\QuanLyShopQuanAo.pdb
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\QuanLyShopQuanAo.FrmWelcome.resources
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\QuanLyShopQuanAo.FrmLogin.resources
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\GUI\obj\Debug\QuanLyShopQuanAo.FrmRegister.resources

@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\BUS\bin\Debug\BUS.dll
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\BUS\bin\Debug\BUS.pdb
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\BUS\obj\Debug\BUS.dll
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DTO\bin\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DTO\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DTO\obj\Debug\DTO.dll
+C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DTO\obj\Debug\DTO.pdb
