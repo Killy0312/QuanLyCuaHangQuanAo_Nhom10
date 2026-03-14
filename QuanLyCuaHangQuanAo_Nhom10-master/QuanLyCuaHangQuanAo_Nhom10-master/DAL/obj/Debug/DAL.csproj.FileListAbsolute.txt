@@ -1,6 +1,0 @@
-C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DAL\bin\Debug\DAL.dll
-C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DAL\bin\Debug\DAL.pdb
-C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DAL\obj\Debug\DAL.dll
-C:\Users\LENOVO\Downloads\QuanLyCuaHangQuanAo_Nhom10-master\QuanLyCuaHangQuanAo_Nhom10-master\DAL\obj\Debug\DAL.pdb
