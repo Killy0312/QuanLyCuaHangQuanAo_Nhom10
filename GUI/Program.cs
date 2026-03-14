@@ -11,7 +11,7 @@ namespace QuanLyShopQuanAo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             // Dòng này gọi đúng tên file frmMain lên
-            Application.Run(new frmMain());
+            Application.Run(new FrmWelcome());
         }
     }
 }
