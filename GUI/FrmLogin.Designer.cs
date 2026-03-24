@@ -44,7 +44,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Corbel", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(327, 47);
+            this.label1.Location = new System.Drawing.Point(326, 33);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(164, 33);
             this.label1.TabIndex = 0;
@@ -98,7 +98,7 @@
             // 
             this.btnLogin.Font = new System.Drawing.Font("Corbel", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.btnLogin.ForeColor = System.Drawing.Color.LightSeaGreen;
-            this.btnLogin.Location = new System.Drawing.Point(349, 262);
+            this.btnLogin.Location = new System.Drawing.Point(343, 282);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(99, 68);
             this.btnLogin.TabIndex = 6;
@@ -109,7 +109,7 @@
             // 
             this.linkRegister.AutoSize = true;
             this.linkRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.linkRegister.Location = new System.Drawing.Point(429, 385);
+            this.linkRegister.Location = new System.Drawing.Point(414, 413);
             this.linkRegister.Name = "linkRegister";
             this.linkRegister.Size = new System.Drawing.Size(76, 17);
             this.linkRegister.TabIndex = 7;
@@ -121,7 +121,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.label5.Location = new System.Drawing.Point(293, 385);
+            this.label5.Location = new System.Drawing.Point(278, 413);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(130, 17);
             this.label5.TabIndex = 8;
@@ -132,7 +132,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(812, 471);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.linkRegister);
             this.Controls.Add(this.btnLogin);
