@@ -16,5 +16,20 @@ namespace QuanLyShopQuanAo
         {
             InitializeComponent();
         }
+
+        private void hệToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void loạiSảnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
