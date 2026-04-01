@@ -14,6 +14,7 @@ namespace DTO
 
         public int MaLoai { get; set; }
 
+        public string TenLoai { get; set; }
         public string KichCo { get; set; }
 
         public string MauSac { get; set; }
